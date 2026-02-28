@@ -1,8 +1,7 @@
 {
   "name": "ai-agent-gosmart",
-  "version": "1.0.0",
   "private": true,
-  "description": "GoSmart AI Agent powered by Cloudflare Workers AI",
+  "version": "1.0.0",
   "license": "Proprietary",
   "devDependencies": {
     "wrangler": "^3.30.0"
