@@ -1,9 +1,131 @@
+LICENSE
+(PROPRIETARY – ENTERPRISE / ANTI-LEAK / COMMERCIAL & INTERNAL USE ONLY)
+
 Copyright (c) 2026
 PT. MEDIA ONLINE NUSANTARA
-
 All Rights Reserved.
 
-This software and its source code are proprietary and confidential.
-Unauthorized copying, modification, distribution, publication,
-or use of this software, in whole or in part, is strictly prohibited
-without prior written permission from PT. MEDIA ONLINE NUSANTARA.
+IMPORTANT NOTICE:
+THIS SOFTWARE IS NOT OPEN-SOURCE.
+
+────────────────────────────────────────────────────────────
+
+1. OWNERSHIP
+
+This software, including but not limited to all source code, binaries,
+documentation, configuration files, architecture, workflows, algorithms,
+and related materials (collectively, the “Software”), is the exclusive and
+confidential property of PT. MEDIA ONLINE NUSANTARA.
+
+The Software is protected by:
+- Indonesian Copyright Law
+- International copyright and intellectual property treaties
+
+────────────────────────────────────────────────────────────
+
+2. NO LICENSE GRANTED
+
+NO RIGHTS OR LICENSES ARE GRANTED under this document.
+
+No permission is given, whether express, implied, statutory, or otherwise,
+to use, copy, modify, distribute, access, or exploit the Software, except
+where explicitly authorized IN WRITING by PT. MEDIA ONLINE NUSANTARA.
+
+Public availability of this Software (including via GitHub or similar
+platforms) DOES NOT constitute permission or license of any kind.
+
+────────────────────────────────────────────────────────────
+
+3. STRICT PROHIBITIONS (ZERO TOLERANCE)
+
+Without prior written authorization, the following actions are STRICTLY
+PROHIBITED:
+
+- Forking, cloning, mirroring, or scraping the repository
+- Copying, reproducing, or backing up the Software
+- Modifying, adapting, or creating derivative works
+- Reverse engineering, decompiling, or disassembling
+- Redistributing, publishing, or sharing in any form
+- Using the Software for internal, external, or commercial purposes
+- Incorporating any portion of the Software into other systems
+- Training AI / ML models using the Software or its outputs
+- Allowing third-party access, intentionally or negligently
+
+────────────────────────────────────────────────────────────
+
+4. CONFIDENTIALITY & ANTI-LEAK
+
+The Software constitutes CONFIDENTIAL INFORMATION.
+
+Any unauthorized access, disclosure, leakage, or exposure—whether
+intentional, negligent, or accidental—shall be considered a material
+breach and may result in immediate legal action.
+
+Users are responsible for securing access credentials and preventing
+unauthorized access.
+
+────────────────────────────────────────────────────────────
+
+5. COMMERCIAL & INTERNAL USE RESTRICTIONS
+
+The Software MAY NOT be:
+- Sold
+- Resold
+- Licensed
+- Sub-licensed
+- Used for revenue-generating activities
+- Used internally within any organization
+
+unless explicitly permitted by a signed agreement with
+PT. MEDIA ONLINE NUSANTARA.
+
+────────────────────────────────────────────────────────────
+
+6. DMCA & ENFORCEMENT
+
+Unauthorized use, copying, or distribution of the Software may result in:
+
+- Immediate DMCA Takedown requests
+- Repository removal and account suspension
+- Civil litigation
+- Criminal prosecution under applicable laws
+
+PT. MEDIA ONLINE NUSANTARA reserves the right to pursue ALL available legal
+remedies without prior notice.
+
+────────────────────────────────────────────────────────────
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE”.
+
+PT. MEDIA ONLINE NUSANTARA DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, SECURITY, AND NON-INFRINGEMENT.
+
+────────────────────────────────────────────────────────────
+
+8. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL PT. MEDIA ONLINE NUSANTARA BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM
+THE USE OR MISUSE OF THIS SOFTWARE.
+
+────────────────────────────────────────────────────────────
+
+9. TERMINATION
+
+Any unauthorized use automatically terminates any implied permission
+and may trigger immediate legal enforcement.
+
+────────────────────────────────────────────────────────────
+
+10. GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the
+laws of the Republic of Indonesia.
+
+────────────────────────────────────────────────────────────
+
+BY ACCESSING, VIEWING, OR INTERACTING WITH THIS SOFTWARE IN ANY FORM,
+YOU ACKNOWLEDGE AND AGREE TO BE BOUND BY THESE TERMS.
