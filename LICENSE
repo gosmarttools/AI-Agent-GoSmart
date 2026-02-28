@@ -1,18 +1,18 @@
-# LICENSE
+LICENSE
 
 Copyright (c) 2026  
 PT. MEDIA ONLINE NUSANTARA  
 All Rights Reserved.
 
----
 
-## 🌐 Language / Bahasa
+
+ 🌐 Language / Bahasa
 - [Bahasa Indonesia](#bahasa-indonesia)
 - [English](#english-version)
 
----
 
-## ⚠️ Repository Status Notice
+
+⚠️ Repository Status Notice
 This repository may be configured as **Public** or **Private** on GitHub.
 
 **Public visibility does NOT grant any license** to copy, modify, reuse, or distribute the source code.  
@@ -20,7 +20,7 @@ Access is provided **for viewing and evaluation purposes only**, unless explicit
 
 ---
 
-# 🇮🇩 Bahasa Indonesia
+🇮🇩 Bahasa Indonesia
 
 ## LISENSI PERANGKAT LUNAK PROPRIETARY
 
@@ -31,7 +31,7 @@ Repository **Public GitHub bukan berarti open-source**.
 
 ---
 
-### 2. Hak Penggunaan Terbatas
+ 2. Hak Penggunaan Terbatas
 Pengguna hanya diperbolehkan:
 - Melihat kode (read-only)
 - Melakukan audit internal jika diberi izin tertulis
@@ -40,7 +40,7 @@ Segala bentuk penggunaan lain **dilarang**.
 
 ---
 
-### 3. Larangan
+ 3. Larangan
 Dilarang keras:
 - Fork
 - Clone untuk produksi
@@ -51,7 +51,7 @@ Dilarang keras:
 
 ---
 
-### 4. DMCA & Penegakan
+ 4. DMCA & Penegakan
 Setiap pelanggaran akan ditindak melalui:
 - GitHub DMCA Takedown
 - Pemblokiran akun
@@ -59,30 +59,30 @@ Setiap pelanggaran akan ditindak melalui:
 
 ---
 
-### 5. Hukum
+ 5. Hukum
 Lisensi ini tunduk pada **Hukum Republik Indonesia**.
 
 ---
 
-# 🇬🇧 English Version
+🇬🇧 English Version
 
-## PROPRIETARY SOFTWARE LICENSE
+ PROPRIETARY SOFTWARE LICENSE
 
-### 1. Ownership
+ 1. Ownership
 All content in this repository is the exclusive property of PT. MEDIA ONLINE NUSANTARA.
 
 Public visibility **does not imply open-source**.
 
 ---
 
-### 2. Limited Rights
+ 2. Limited Rights
 You are only permitted to:
 - View the code
 - Review for evaluation with written permission
 
 ---
 
-### 3. Prohibitions
+ 3. Prohibitions
 You may NOT:
 - Fork
 - Clone for production
@@ -92,7 +92,7 @@ You may NOT:
 
 ---
 
-### 4. DMCA Enforcement
+ 4. DMCA Enforcement
 Violations may result in:
 - GitHub DMCA takedown
 - Account suspension
@@ -100,5 +100,5 @@ Violations may result in:
 
 ---
 
-### 5. Governing Law
+ 5. Governing Law
 Governed by the laws of the Republic of Indonesia.
